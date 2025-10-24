@@ -1,0 +1,23 @@
+{
+  "name": "Rahmat - Developer Portfolio",
+  "short_name": "RahmatPortfolio",
+  "description": "Portfolio of Rahmat, a Mobile Developer and Student Creator",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00ffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://iili.io/KgshJVI.md.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://iili.io/KgshJVI.md.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ],
+  "categories": ["technology", "web development", "portfolio"]
+}
